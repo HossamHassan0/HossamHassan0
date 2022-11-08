@@ -1,7 +1,6 @@
 ### Hi I'm Hossam Hassan 👋
 
-- 🔭 I’m currently working on Machine Learning.
-- 🌱 I’m currently learning Deep Learning and Computer Vision.
-- 💬 Ask me about Machine Learning and Data Analysis.
+- 🔭 I’m currently working on data analysis and i will improve my skills in data science.
+- 🌱 I’m currently learning power bi, tableau , advanced sql for data analytics.
 - 📫 How to reach me: twitter @hosam_hasan_1
 - 😄 Pronouns: He/His.
